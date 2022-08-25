@@ -31,3 +31,4 @@ apps:
     plugs:
       - network
       - network-control
+      - network-bind
