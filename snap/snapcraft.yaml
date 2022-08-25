@@ -1,4 +1,5 @@
 name: itrue-iperf3
+title: iperf3
 base: core22
 version: git
 summary: A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -11,7 +12,9 @@ description: |
   **Note: This is an unoffical snap not developed or managed by the iperf
   developers!**
 license: BSD-3-Clause
-website: https://github.com/IsaacJT/iperf3-snap
+website: https://iperf.fr/
+source-code: https://github.com/IsaacJT/iperf3-snap
+issues: https://github.com/IsaacJT/iperf3-snap/issues
 contact: isaac.true@canonical.com
 
 grade: stable
