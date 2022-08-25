@@ -10,6 +10,9 @@ description: |
 
   **Note: This is an unoffical snap not developed or managed by the iperf
   developers!**
+license: BSD-3-Clause
+website: https://github.com/IsaacJT/iperf3-snap
+contact: isaac.true@canonical.com
 
 grade: stable
 confinement: strict
