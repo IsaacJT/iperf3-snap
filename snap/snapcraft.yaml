@@ -23,7 +23,7 @@ parts:
       - -usr/share
 
 apps:
-  iperf3:
+  itrue-iperf3:
     command: usr/bin/iperf3
     plugs:
       - network
